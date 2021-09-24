@@ -1,0 +1,21 @@
+body {
+    background-color: #f3e1c9;
+    text-align: center;
+}
+
+h1 {
+    color: #ffffff;
+    background-color: #6B7A8F;
+    font-family: "Brush Script MT", cursive, sans-serif;
+    font-size: 100px;
+    text-decoration: underline;
+}
+
+.link {
+    /* background-color: rgba(245, 159, 159, 0.562); */
+    background-color: #bfd8d2;
+    font-size: 30px;
+    color: #582d0a;
+    font-family: Helvetica, sans-serif;
+}
+
